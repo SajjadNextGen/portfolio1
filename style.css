@@ -1,0 +1,35 @@
+body{
+  font-family: "Smooch Sans", serif;
+}
+h1{font-size: 50px; color: rgb(130, 223, 10);}
+h2{font-size: 40px; color: white;}
+
+section{
+  display: flex;
+  padding: 5%;
+  }
+  
+.half-width{
+  width: 50%;
+}
+img{
+  width: 80%;
+  border-radius: 50%;
+}
+.link{
+  font-size: 20px;
+  text-decoration: none;
+  padding: 10px 50px;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(13, 60, 148),rgb(26, 7, 134));
+  color: white;
+  font-weight: 76px;
+}
+.top-banner{
+  background-image: url(images/wave.svg);
+  background-repeat: no-repeat;
+}
+.top-banner{
+  background-image: url(images/wave.svg);
+  background-repeat: no-repeat;
+}
